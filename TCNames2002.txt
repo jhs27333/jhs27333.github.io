@@ -1,0 +1,70 @@
+NAME REFERENCE FILE
+
+2002
+0: Bernie
+1: Tapah
+2: Dina
+3: Eddy
+4: Francesca
+5: ?
+6: Chris
+7: Guillaume
+8: Mitag
+9: Hary
+10: ?
+11: Ikala
+12: Dianne-Jery
+13: ?
+14: Kesiny
+15: 2002 Oman
+16: ?
+17: Errol
+18: ?
+19: BOB 01
+20: Hagibis
+21: ?
+22: Alma
+23: Noguri (Espada)
+24: Rammasun (Florita)
+25: Chataan (Gloria)
+26: Halong (Inday)
+27: Nakri (Hambalos)
+28: ?
+29: Cristina
+30: Fengshen (fujiwhara with Fung-wong)
+31: Douglas
+32: Elida
+33: Fung-wong (Kaka) (fujiwhara with Fengshen)
+34: Milenyo and Vongfong
+35: Phanfone
+36: Fausto
+37: ?
+38: Rusa
+39: Genevieve
+40: Ele
+41: Sinlaku
+42: Hernan
+43: Gustav
+44: Hagupit
+45: Iselle
+46: Chagmi
+47: Isidore
+48: Kyle
+49: Mekkhala
+50: Higos
+51: Lili
+52: ?
+53: Bavi
+54: Kenna
+55: Huko
+56: Maysak
+57: Boura
+58: Haishen
+59: Pongsona
+60: Yolande
+61: Crystal
+62: BOB 05
+63: ?
+64: Zoe
+65: Delfina
+
