@@ -1,0 +1,91 @@
+NAME REFERENCE FILE
+
+2008
+0: Elisa
+1: 01W
+2: Funa
+3: Gene?
+4: Fame
+5: Gula
+6: Gene?
+7: Hondo
+8: 17S
+9: Ivan
+10: ?
+11: Nicholas
+12: ? 
+13: Hondo part 2
+14: ?
+15: Ophelia
+16: 20P?
+17: Jokwe
+18: Kamba
+19: Lola
+20: Pancho
+21: ?
+22: Neoguri (Ambo)
+23: Durga
+24: Rosie
+25: Nargi
+26: ?
+27: Rammasun (Butchoy)
+28: Matmo (Dindo)
+29: Halong (Cosme)
+30: ?
+31: Nakri (Enteng)
+32: Arthur+Alma
+33: ?
+34: ?
+35: Fengshen (Frank)
+36: Boris
+37: Cristina
+38: Douglas
+39: Bertha
+40: ?
+41: Elida
+42: Kalmaegi (Helen)
+43: Fausto
+44: Cristobal
+45: Dolly
+46: Fung-wong (Igme)
+47: Genevieve
+48: Kammuri (Julian)
+49: Hernan
+50: Phanfone
+51: Iselle
+52: Vongfong
+53: Fay
+54: Nuri (Karen)
+55: Gustav
+56: Hanna
+57: Ike
+58: Josephine
+59: Lowell
+60: ?
+61: Sinlaku (Marce)
+62: ?
+63: Hagupit (Nina)
+64: Jangmi (Ofel)
+65: Kyle
+66: Mekkhala
+67: ? 
+68: Higos (Pablo)
+69: Marie
+70: Norbert
+71: Odile
+72: Omar
+73: Asma
+74: ARB 02
+75: Bavi
+76: ?
+77: Rashmi
+78: Polo
+79: Paloma
+80: Khai-Muk
+81: Bernard
+82: ?
+83: ?
+84: Dolphin (Ulysses)
+85: Cinda
+86: Billy
+87: ?

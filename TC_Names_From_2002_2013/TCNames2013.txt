@@ -1,0 +1,80 @@
+NAME REFERENCE FILE
+
+2013
+0: Sonamu (Auring)
+1: Narelle
+2: Emang
+3: ?
+4: ?
+5: Garry
+6: Felleng
+7: Haley
+8: Gino
+9: ?
+10: Haruna
+11: 11U
+12: Rusty
+13: Sandra
+14: ?
+15: ?
+16: Tim
+17: Imelda
+18: Victoria
+19: ?
+20: ?
+21: Jamala
+22: Viyaru
+23: Yagi (Dante)
+24: Leepi (Emong)
+25: Bebinca (Fabian)
+26: Cosme
+27: Dalia
+28: Erick
+29: Soulik (Huaning)
+30: ?
+31: Flossie
+32: Jebi (Jolina)
+33: ?
+34: ?
+35: Gil or Henriette? (messed up first value)
+36: Mangkut (Kiko)
+37: Utor (Labuyo)
+38: Erin
+39: Pewa
+40: Trami (Maring)
+41: Ivo
+42: Kong-rey (Nando)
+43: ?
+44: Yutu
+45: ?
+46: Humberto
+47: Man-yi
+48: Manuel + Ingrid (messed up)
+49: Usagi (Odette)
+50: Pabuk
+51: Wutip (Paolo)
+52: Sepat
+53: Fitow (Quedan) last values are from Danas
+54: Phailin
+55: Danas (Ramil)
+56: Nari (Santi)
+57: Wipha (Tino)
+58: Octave
+59: Francisco (Urduja)
+60: Lekima
+61: Raymond
+62: Lorenzo
+63: 01
+64: Krosa (Vinta)
+65: Sonia
+66: Haiyan
+67: ARB 01
+68: Melissa
+69: Helen
+70: Lehar
+71: ?
+72: ?
+73: Madi
+74: ?
+75: Amara
+76: Bruce
